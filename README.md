@@ -1,6 +1,6 @@
 # fc-downloader
 
-[简体中文说明 / Simplified Chinese](README.zh-CN.md)
+日本語 | [简体中文](README.zh-CN.md)
 
 **Fantia / pixiv FANBOX / Patreon / ci-en** で支援しているコンテンツを、
 **自分の PC にまとめてダウンロードして閲覧**できるデスクトップアプリです。
